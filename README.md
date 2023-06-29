@@ -16,10 +16,10 @@
 
 ## 💻 Language <a name = "Language"></a>
 
-![C language](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/200px-C_Programming_Language.svg.png)
+![C language]([https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png](https://postimg.cc/MMb26LN2))
 
 
-## Game Demo 🖥️ <a name = "demo"></a>
+## Demo 🖥️ <a name = "demo"></a>
 
 
 https://github.com/KirollosSamy/Graphics_project/assets/75990647/bea4e51e-9b34-41b8-9ded-d62689bb58af
