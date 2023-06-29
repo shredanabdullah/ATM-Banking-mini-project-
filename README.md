@@ -12,10 +12,15 @@
 
 ## 📙 About <a name = "about"></a>
 Developing mini project of ATM Banking simulation in C programming Language.
+<br />
 It contains various features :
+ <br />
 1)Deposit the money.
+ <br />
 2)Withdrawl of the money.
+ <br />
 3)Query current balance.
+ <br />
 4)Producing beep sound whenever there is an invalid input is entered.
 
 
