@@ -1,6 +1,6 @@
 # ATM Banking mini project
 
-![image]()
+![image](https://i.postimg.cc/tJGKJX5h/Whats-App-Image-2023-06-29-at-3-48-24-AM.jpg)
 
 
 ## 📝 Table of Contents
