@@ -16,7 +16,7 @@
 
 ## 💻 Language <a name = "Language"></a>
 
-![C language](https://postimg.cc/MMb26LN2)
+![C language](https://i.postimg.cc/JnS1qVQn/1200px-C-Programming-Language-svg.png)
 
 ## Demo 🖥️ <a name = "demo"></a>
 
