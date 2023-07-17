@@ -7,7 +7,6 @@
 
 - [About](#about)
 - [Language](#language)
-- [Demo](#demo)
 - [Contributors](#contributors)
 
 ## 📙 About <a name = "about"></a>
@@ -27,9 +26,6 @@ It contains various features :
 ## 💻 Language <a name = "Language"></a>
 
 ![C language](https://i.postimg.cc/JnS1qVQn/1200px-C-Programming-Language-svg.png)
-
-## Demo 🖥️ <a name = "demo"></a>
-https://github.com/KirollosSamy/Graphics_project/assets/75990647/fd910597-fb3c-4e03-8220-f1c611b11509
 
 ## Contributors <a name = "contributors"></a>
 
